@@ -1,0 +1,31 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+2,Interact with Creative Attributes and Social Links on Portfolio Web,"Navigate to the home page, interact with creative attributes, and verify social links while ensuring navigation back to home.","Step 1: Navigate to /
+Step 2: Click on div creativeAttributes
+Step 3: Click on button socialLinks (email)
+Step 4: Click on button socialLinks (linkedIn)
+Step 5: Click on div socialLinks
+Step 6: Click on button socialLinks (github) -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,NEW
+1,Schedule a Call and Navigate Through Portfolio Web Features,"Navigate to the home page, schedule a call, send a message, and explore blog and resume sections while verifying navigation.","Step 1: Navigate to /
+Step 2: Click on div scheduleCall
+Step 3: Click on button scheduleCall
+Step 4: Click on input name
+Step 5: Enter input value in input name
+Step 6: Press key Tab on input name
+Step 7: Press key Tab on input name
+Step 8: Enter input value in input email
+Step 9: Click on textarea message
+Step 10: Enter input value in textarea message
+Step 11: Click on div sendMessage
+Step 12: Click on button sendMessage
+Step 13: Click on button blog -> Navigate to page 'blog#blog'
+Step 14: Click on header blogPost (academicJourney) -> Navigate to page 'blog post#blog/*'
+Step 15: Click on button blog -> Navigate to page 'blog#blog'
+Step 16: Click on header blogPost (truongLeVinhPhuc) -> Navigate to page 'blog post#blog/*'
+Step 17: Click on button resume -> Navigate to page 'resume#resume'
+Step 18: Click on button themeToggle (switchToLightMode)
+Step 19: Click on button themeToggle (switchToDarkMode)
+Step 20: Click on div sloWey -> Navigate to page ''
+Step 21: Take full page screenshot as checkpoint
+",Trivial,NEW
