@@ -6,7 +6,35 @@ Step 4: Click on button socialLinks (linkedIn)
 Step 5: Click on div socialLinks
 Step 6: Click on button socialLinks (github) -> Navigate to page ''
 Step 7: Take full page screenshot as checkpoint
-",High,NEW
+",High,STABLE
+4,Explore Featured Items on Portfolio Web,"Navigate to the home page, interact with various featured items, and explore the blog section, ensuring you can return to the home page.","Step 1: Navigate to /
+Step 2: Click on image featuredItems (enigma)
+Step 3: Click on image featuredItems (fiveDcoffee)
+Step 4: Click on div sloWey
+Step 5: Click on image featuredItems (musicify)
+Step 6: Click on span dynamicObject (object)
+Step 7: Click on span dynamicObject (object2)
+Step 8: Click on span y
+Step 9: Click on span dynamicObject (object3)
+Step 10: Click on span managed
+Step 11: Click on span object4
+Step 12: Click on span object4
+Step 13: Click on span dynamicObject (object5)
+Step 14: Click on button object
+Step 15: Click on button blog -> Navigate to page 'blog#blog'
+Step 16: Click on p discoverJourney -> Navigate to page ''
+Step 17: Take full page screenshot as checkpoint
+",Medium,NEW
+3,Schedule a Call with Portfolio Web,"Navigate to the home page, schedule a call by entering your name, email, and message, then verify that you return to the home page.","Step 1: Navigate to /
+Step 2: Click on button scheduleCall
+Step 3: Click on input name
+Step 4: Press key Tab on input name
+Step 5: Press key Tab on input name
+Step 6: Click on input name
+Step 7: Click on textarea message
+Step 8: Click on input email -> Navigate to page ''
+Step 9: Take full page screenshot as checkpoint
+",Low,NEW
 1,Schedule a Call and Navigate Through Portfolio Web Features,"Navigate to the home page, schedule a call, send a message, and explore blog and resume sections while verifying navigation.","Step 1: Navigate to /
 Step 2: Click on div scheduleCall
 Step 3: Click on button scheduleCall
@@ -28,4 +56,4 @@ Step 18: Click on button themeToggle (switchToLightMode)
 Step 19: Click on button themeToggle (switchToDarkMode)
 Step 20: Click on div sloWey -> Navigate to page ''
 Step 21: Take full page screenshot as checkpoint
-",Trivial,NEW
+",Trivial,STABLE

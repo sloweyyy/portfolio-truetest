@@ -1,0 +1,21 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on image featuredItems (enigma)",
+        "step 3: Click on image featuredItems (fiveDcoffee)",
+        "step 4: Click on div sloWey",
+        "step 5: Click on image featuredItems (musicify)",
+        "step 6: Click on span dynamicObject (object)",
+        "step 7: Click on span dynamicObject (object2)",
+        "step 8: Click on span y",
+        "step 9: Click on span dynamicObject (object3)",
+        "step 10: Click on span managed",
+        "step 11: Click on span object4",
+        "step 12: Click on span object4",
+        "step 13: Click on span dynamicObject (object5)",
+        "step 14: Click on button object",
+        "step 15: Click on button blog -> Navigate to page 'blog#blog'",
+        "step 16: Click on p discoverJourney -> Navigate to page ''",
+        "step 17: Take full page screenshot as checkpoint"
+    ]
+}
