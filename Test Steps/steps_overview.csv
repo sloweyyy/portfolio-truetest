@@ -1,31 +1,58 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-2,Interact with Creative Attributes and Social Links on Portfolio Web,"Navigate to the home page, interact with creative attributes, and verify social links while ensuring navigation back to home.","Step 1: Navigate to /
+2,Access Creative Attributes and Verify Home Page,"Navigate to the home page, access creative attributes, and check social links like Email, LinkedIn, and Github. Verify that the home page is displayed.","Step 1: Navigate to /
 Step 2: Click on div creativeAttributes
-Step 3: Click on button socialLinks (email)
-Step 4: Click on button socialLinks (linkedIn)
+Step 3: Click on button email
+Step 4: Click on button linkedIn
 Step 5: Click on div socialLinks
-Step 6: Click on button socialLinks (github) -> Navigate to page ''
+Step 6: Click on button github -> Navigate to page ''
 Step 7: Take full page screenshot as checkpoint
-",High,STABLE
-4,Explore Featured Items on Portfolio Web,"Navigate to the home page, interact with various featured items, and explore the blog section, ensuring you can return to the home page.","Step 1: Navigate to /
-Step 2: Click on image featuredItems (enigma)
-Step 3: Click on image featuredItems (fiveDcoffee)
-Step 4: Click on div sloWey
-Step 5: Click on image featuredItems (musicify)
-Step 6: Click on span dynamicObject (object)
-Step 7: Click on span dynamicObject (object2)
+",High,NEW
+7,Explore Portfolio Projects and Verify Home Page,"Navigate to the home page, explore various projects and their details, and navigate back to the home page. Verify that the home page is displayed.","Step 1: Navigate to /
+Step 2: Click on image enigma
+Step 3: Click on image fiveDcoffee
+Step 4: Click on div enigmaMobileDevelopment
+Step 5: Click on image musicify
+Step 6: Click on span object
+Step 7: Click on span object2
 Step 8: Click on span y
-Step 9: Click on span dynamicObject (object3)
+Step 9: Click on span object3
+Step 10: Click on span object4
+Step 11: Click on span object5
+Step 12: Click on span object5
+Step 13: Click on span object6
+Step 14: Click on button blog -> Navigate to page 'blog#blog'
+Step 15: Click on p discoverJourney -> Navigate to page ''
+Step 16: Take full page screenshot as checkpoint
+",High,NEW
+4,Explore Portfolio with Dynamic Objects and Verify Home Page,"Navigate to the home page, explore various projects with dynamic elements, and navigate back to the home page. Verify that the home page is displayed.","Step 1: Navigate to /
+Step 2: Click on image enigma
+Step 3: Click on image fiveDcoffee
+Step 4: Click on div sloWey
+Step 5: Click on image musicify
+Step 6: Click on span object
+Step 7: Click on span dynamicObject (object7)
+Step 8: Click on span y
+Step 9: Click on span dynamicObject (object8)
 Step 10: Click on span managed
-Step 11: Click on span object4
-Step 12: Click on span object4
-Step 13: Click on span dynamicObject (object5)
+Step 11: Click on span object5
+Step 12: Click on span object5
+Step 13: Click on span object6
 Step 14: Click on button object
-Step 15: Click on button blog -> Navigate to page 'blog#blog'
+Step 15: Click on button blog2 -> Navigate to page 'blog#blog'
 Step 16: Click on p discoverJourney -> Navigate to page ''
 Step 17: Take full page screenshot as checkpoint
-",Medium,NEW
-3,Schedule a Call with Portfolio Web,"Navigate to the home page, schedule a call by entering your name, email, and message, then verify that you return to the home page.","Step 1: Navigate to /
+",High,NEW
+9,Explore Skills and Resume in Portfolio Web,"Navigate to the home page, explore skills, and access the resume section. Verify that the home page is displayed.","Step 1: Navigate to /
+Step 2: Click on div creative
+Step 3: Click on div passionate
+Step 4: Click on div dedicated
+Step 5: Click on div dedicated
+Step 6: Click on div skillDescription
+Step 7: Click on button object
+Step 8: Click on button resume2 -> Navigate to page ''
+Step 9: Take full page screenshot as checkpoint
+",High,NEW
+3,Schedule a Call and Verify Home Page in Portfolio Web,"Navigate to the home page, schedule a call by filling out the form, and verify that the home page is displayed.","Step 1: Navigate to /
 Step 2: Click on button scheduleCall
 Step 3: Click on input name
 Step 4: Press key Tab on input name
@@ -34,8 +61,49 @@ Step 6: Click on input name
 Step 7: Click on textarea message
 Step 8: Click on input email -> Navigate to page ''
 Step 9: Take full page screenshot as checkpoint
+",Medium,NEW
+5,View Skills and Resume from Portfolio Web,"Navigate to the home page, review skill descriptions, and access the resume. Verify that the home page is displayed.","Step 1: Navigate to /
+Step 2: Click on header pageTitle
+Step 3: Click on div skillDescription
+Step 4: Click on div skillDescription
+Step 5: Click on div skillDescription
+Step 6: Click on button resume -> Navigate to page 'resume#resume'
+Step 7: Click on button contact
+Step 8: Click on input name
+Step 9: Click on div contactForm
+Step 10: Click on button viewPdf -> Navigate to page ''
+Step 11: Take full page screenshot as checkpoint
+",Medium,NEW
+6,Send a Message and Navigate Through Blog Posts in Portfolio Web,"Schedule a call, fill out the contact form, send a message, and navigate through blog posts while switching themes. Verify that the home page is displayed.","Step 1: Navigate to /
+Step 2: Click on button scheduleCall
+Step 3: Click on input name
+Step 4: Press key Tab on input name
+Step 5: Press key Tab on input name
+Step 6: Click on textarea message
+Step 7: Click on button sendMessage
+Step 8: Click on button sendMessage
+Step 9: Navigate through blog posts and switch themes
+	- Step 1: Click on header academicJourney -> Navigate to page 'blog post#blog/*'
+	- Step 2: Click on button blog -> Navigate to page 'blog#blog'
+	- Step 3: Click on header blogTitle -> Navigate to page 'blog post#blog/*'
+	- Step 4: Click on button resume -> Navigate to page 'resume#resume'
+	- Step 5: Click on button switchToLightMode
+	- Step 6: Click on button switchToDarkMode
+Step 10: Click on div userDescription -> Navigate to page ''
+Step 11: Take full page screenshot as checkpoint
 ",Low,NEW
-1,Schedule a Call and Navigate Through Portfolio Web Features,"Navigate to the home page, schedule a call, send a message, and explore blog and resume sections while verifying navigation.","Step 1: Navigate to /
+8,Explore Innovative Sections and Verify Home Page,"Navigate to the home page, explore innovative sections, and access the about page and blog. Verify that the home page is displayed.","Step 1: Navigate to /
+Step 2: Click on div innovative
+Step 3: Click on div sloWey
+Step 4: Click on button email2
+Step 5: Click on div sloWey2
+Step 6: Click on button about (about)
+Step 7: Click on button blog
+Step 8: Click on button resume -> Navigate to page 'resume#resume'
+Step 9: Click on html object -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",Low,NEW
+1,Schedule a Call with Message and Verify Home Page,"Navigate to the home page, schedule a call, fill out the contact form, and send a message. Verify that the home page is displayed.","Step 1: Navigate to /
 Step 2: Click on div scheduleCall
 Step 3: Click on button scheduleCall
 Step 4: Click on input name
@@ -47,13 +115,25 @@ Step 9: Click on textarea message
 Step 10: Enter input value in textarea message
 Step 11: Click on div sendMessage
 Step 12: Click on button sendMessage
-Step 13: Click on button blog -> Navigate to page 'blog#blog'
-Step 14: Click on header blogPost (academicJourney) -> Navigate to page 'blog post#blog/*'
-Step 15: Click on button blog -> Navigate to page 'blog#blog'
-Step 16: Click on header blogPost (truongLeVinhPhuc) -> Navigate to page 'blog post#blog/*'
-Step 17: Click on button resume -> Navigate to page 'resume#resume'
-Step 18: Click on button themeToggle (switchToLightMode)
-Step 19: Click on button themeToggle (switchToDarkMode)
-Step 20: Click on div sloWey -> Navigate to page ''
-Step 21: Take full page screenshot as checkpoint
-",Trivial,STABLE
+Step 13: Click on button blog
+Step 14: Navigate through blog posts and switch themes
+	- Step 1: Click on header academicJourney -> Navigate to page 'blog post#blog/*'
+	- Step 2: Click on button blog -> Navigate to page 'blog#blog'
+	- Step 3: Click on header blogTitle -> Navigate to page 'blog post#blog/*'
+	- Step 4: Click on button resume -> Navigate to page 'resume#resume'
+	- Step 5: Click on button switchToLightMode
+	- Step 6: Click on button switchToDarkMode
+Step 15: Click on div sloWey -> Navigate to page ''
+Step 16: Take full page screenshot as checkpoint
+",Trivial,NEW
+10,Navigate Through Header Options in Portfolio Web,Navigate to the home page and interact with header options multiple times. Verify that the home page is displayed.,"Step 1: Navigate to /
+Step 2: Click on header object
+Step 3: Click on header locationInfo
+Step 4: Click on header fullStackDeveloper
+Step 5: Click on button navigation (contact)
+Step 6: Click on button close
+Step 7: Click on button navigation (about2)
+Step 8: Click on button navigation (about2)
+Step 9: Click on button navigation (work)
+Step 10: Take full page screenshot as checkpoint
+",Trivial,NEW

@@ -1,0 +1,20 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on image enigma",
+        "step 3: Click on image fiveDcoffee",
+        "step 4: Click on div enigmaMobileDevelopment",
+        "step 5: Click on image musicify",
+        "step 6: Click on span object",
+        "step 7: Click on span object2",
+        "step 8: Click on span y",
+        "step 9: Click on span object3",
+        "step 10: Click on span object4",
+        "step 11: Click on span object5",
+        "step 12: Click on span object5",
+        "step 13: Click on span object6",
+        "step 14: Click on button blog -> Navigate to page 'blog#blog'",
+        "step 15: Click on p discoverJourney -> Navigate to page ''",
+        "step 16: Take full page screenshot as checkpoint"
+    ]
+}

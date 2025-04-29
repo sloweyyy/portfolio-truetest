@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on header pageTitle",
+        "step 3: Click on div skillDescription",
+        "step 4: Click on div skillDescription",
+        "step 5: Click on div skillDescription",
+        "step 6: Click on button resume -> Navigate to page 'resume#resume'",
+        "step 7: Click on button contact",
+        "step 8: Click on input name",
+        "step 9: Click on div contactForm",
+        "step 10: Click on button viewPdf -> Navigate to page ''",
+        "step 11: Take full page screenshot as checkpoint"
+    ]
+}

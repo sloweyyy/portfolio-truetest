@@ -12,14 +12,9 @@
         "step 10: Enter input value in textarea message",
         "step 11: Click on div sendMessage",
         "step 12: Click on button sendMessage",
-        "step 13: Click on button blog -> Navigate to page 'blog#blog'",
-        "step 14: Click on header blogPost (academicJourney) -> Navigate to page 'blog post#blog/*'",
-        "step 15: Click on button blog -> Navigate to page 'blog#blog'",
-        "step 16: Click on header blogPost (truongLeVinhPhuc) -> Navigate to page 'blog post#blog/*'",
-        "step 17: Click on button resume -> Navigate to page 'resume#resume'",
-        "step 18: Click on button themeToggle (switchToLightMode)",
-        "step 19: Click on button themeToggle (switchToDarkMode)",
-        "step 20: Click on div sloWey -> Navigate to page ''",
-        "step 21: Take full page screenshot as checkpoint"
+        "step 13: Click on button blog",
+        "step 14: Navigate through blog posts and switch themes",
+        "step 15: Click on div sloWey -> Navigate to page ''",
+        "step 16: Take full page screenshot as checkpoint"
     ]
 }

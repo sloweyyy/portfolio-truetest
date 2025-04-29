@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on div creative",
+        "step 3: Click on div passionate",
+        "step 4: Click on div dedicated",
+        "step 5: Click on div dedicated",
+        "step 6: Click on div skillDescription",
+        "step 7: Click on button object",
+        "step 8: Click on button resume2 -> Navigate to page ''",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}
