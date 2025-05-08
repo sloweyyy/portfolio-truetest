@@ -5,7 +5,7 @@
         "step 3: Click on div skillDescription",
         "step 4: Click on div skillDescription",
         "step 5: Click on div skillDescription",
-        "step 6: Click on button resume -> Navigate to page 'resume#resume'",
+        "step 6: Click on button resume2 -> Navigate to page 'resume#resume'",
         "step 7: Click on button contact",
         "step 8: Click on input name",
         "step 9: Click on div contactForm",

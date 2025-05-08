@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on image blockchainPlatform",
+        "step 3: Click on button scheduleCall2",
+        "step 4: Click on button close",
+        "step 5: Click on button linkedIn2 -> Navigate to page ''",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}
