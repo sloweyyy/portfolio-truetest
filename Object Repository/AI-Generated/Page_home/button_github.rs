@@ -30,7 +30,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Github</value>
-        <webElementGuid>74ab6832-2182-457e-bfae-a868b3fed13d</webElementGuid>
+        <webElementGuid>bc0383fb-5e71-4507-91d0-d6a27101bc30</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -38,6 +38,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>74ab6832-2182-457e-bfae-a868b3fed13d</webElementGuid>
+        <webElementGuid>bc0383fb-5e71-4507-91d0-d6a27101bc30</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
