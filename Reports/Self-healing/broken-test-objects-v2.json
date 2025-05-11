@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/AI-Generated/Page_home/input_email",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"{{email}}\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//body/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/input[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/AI-Generated/Page_home/input_email_XPATH.png"
+    }
+  ]
+}
