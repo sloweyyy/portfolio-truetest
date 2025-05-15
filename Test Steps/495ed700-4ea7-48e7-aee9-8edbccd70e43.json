@@ -14,7 +14,7 @@
         "step 12: Click on span object5",
         "step 13: Click on span object6",
         "step 14: Click on button object",
-        "step 15: Click on button blog2 -> Navigate to page 'blog#blog'",
+        "step 15: Click on button blog3 -> Navigate to page 'blog#blog'",
         "step 16: Click on p discoverJourney -> Navigate to page ''",
         "step 17: Take full page screenshot as checkpoint"
     ]

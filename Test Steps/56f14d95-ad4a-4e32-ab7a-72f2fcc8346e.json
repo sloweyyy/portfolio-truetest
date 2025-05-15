@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on button about",
+        "step 3: Click on button blog2 -> Navigate to page 'blog#blog'",
+        "step 4: Click on button resume -> Navigate to page 'resume#resume'",
+        "step 5: Click on header resumeIntroduction -> Navigate to page ''",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}

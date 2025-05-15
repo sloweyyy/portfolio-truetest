@@ -1,10 +1,10 @@
 {
     "steps": [
         "step 1: Navigate to /",
-        "step 2: Click on button navigation (about)",
-        "step 3: Click on button navigation (blog3) -> Navigate to page 'blog#blog'",
+        "step 2: Click on button about",
+        "step 3: Click on button blog2 -> Navigate to page 'blog#blog'",
         "step 4: Click on button resume",
-        "step 5: Click on header academicJourney -> Navigate to page 'blog post#blog/*'",
+        "step 5: Click on header academicContent (academicJourney) -> Navigate to page 'blog post#blog/*'",
         "step 6: Click on image academicJourney -> Navigate to page ''",
         "step 7: Take full page screenshot as checkpoint"
     ]

@@ -2,8 +2,8 @@
     "steps": [
         "step 1: Navigate to /",
         "step 2: Click on button resume -> Navigate to page 'resume#resume'",
-        "step 3: Click on item coordinateWithTeams",
-        "step 4: Click on item coordinateWithTeams",
+        "step 3: Click on item teamCoordination (coordinateWithTeams)",
+        "step 4: Click on item teamCoordination (coordinateWithTeams)",
         "step 5: Click on div dateTimePartTime",
         "step 6: Click on div dateTimePartTime -> Navigate to page ''",
         "step 7: Take full page screenshot as checkpoint"

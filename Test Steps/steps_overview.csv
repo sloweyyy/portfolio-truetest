@@ -1,13 +1,13 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-2,Access Social Media Links from Portfolio Web,"Navigate to home page, click on creative attributes, and access various social media links, then verify return to home page.","Step 1: Navigate to /
+3,Explore Creative Attributes and Social Links,"Navigate to home, explore creative attributes, and interact with social media buttons, then verify the home page.","Step 1: Navigate to /
 Step 2: Click on div creativeAttributes
 Step 3: Click on button email
-Step 4: Click on button linkedIn
+Step 4: Click on button linkedIn2
 Step 5: Click on div socialLinks
 Step 6: Click on button github -> Navigate to page ''
 Step 7: Take full page screenshot as checkpoint
 ",High,NEW
-7,Explore Portfolio Projects on Portfolio Web,"Navigate to home page, explore various project images, and verify return to home page after visiting the blog.","Step 1: Navigate to /
+6,Explore Portfolio Projects and Access Blog,"Navigate to home, explore various projects in the portfolio, and access the blog, then verify the home page.","Step 1: Navigate to /
 Step 2: Click on image enigma
 Step 3: Click on image fiveDcoffee
 Step 4: Click on div enigmaMobileDevelopment
@@ -24,7 +24,39 @@ Step 14: Click on button blog -> Navigate to page 'blog#blog'
 Step 15: Click on p discoverJourney -> Navigate to page ''
 Step 16: Take full page screenshot as checkpoint
 ",High,NEW
-4,Explore Projects and Access Blog on Portfolio Web,"Navigate to home page, explore multiple projects, and verify return to home page after visiting the blog.","Step 1: Navigate to /
+7,Check Team Coordination and Resume Details,"Navigate to home, check team coordination details, and verify the home page.","Step 1: Navigate to /
+Step 2: Click on button resume -> Navigate to page 'resume#resume'
+Step 3: Click on item teamCoordination (coordinateWithTeams)
+Step 4: Click on item teamCoordination (coordinateWithTeams)
+Step 5: Click on div dateTimePartTime
+Step 6: Click on div dateTimePartTime -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,NEW
+8,Explore About Section and Blog Navigation,"Navigate to home, explore the about section, and access the blog and resume, then verify the home page.","Step 1: Navigate to /
+Step 2: Click on button about
+Step 3: Click on button blog2 -> Navigate to page 'blog#blog'
+Step 4: Click on button resume -> Navigate to page 'resume#resume'
+Step 5: Click on header resumeIntroduction -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High,NEW
+1,Navigate Home and Interact with Blockchain Platform Call Options,"Navigate to home, click on the blockchain platform image, schedule a call, close, and verify the home page.","Step 1: Navigate to /
+Step 2: Click on image blockchainPlatform (blockchainPlatform)
+Step 3: Click on button scheduleCall
+Step 4: Click on button close
+Step 5: Click on button linkedIn -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",Medium,NEW
+2,Schedule Call and Input User Information,"Navigate to home, schedule a call, and input user details including name and message, then verify the home page.","Step 1: Navigate to /
+Step 2: Click on button scheduleCall2
+Step 3: Click on input name
+Step 4: Press key Tab on input name
+Step 5: Press key Tab on input name
+Step 6: Click on input name
+Step 7: Click on textarea message
+Step 8: Click on input email -> Navigate to page ''
+Step 9: Take full page screenshot as checkpoint
+",Medium,NEW
+11,Explore Portfolio Projects and Return to Home,"Navigate to home, explore various projects, access the blog, and verify the home page.","Step 1: Navigate to /
 Step 2: Click on image enigma
 Step 3: Click on image fiveDcoffee
 Step 4: Click on div sloWey
@@ -38,11 +70,11 @@ Step 11: Click on span object5
 Step 12: Click on span object5
 Step 13: Click on span object6
 Step 14: Click on button object
-Step 15: Click on button blog2 -> Navigate to page 'blog#blog'
+Step 15: Click on button blog3 -> Navigate to page 'blog#blog'
 Step 16: Click on p discoverJourney -> Navigate to page ''
 Step 17: Take full page screenshot as checkpoint
-",High,NEW
-8,Explore Skills and Resume on Portfolio Web,"Navigate to home page, explore skills and resume, and verify return to home page.","Step 1: Navigate to /
+",Medium,NEW
+15,Explore Creative Attributes and Resume,"Navigate to home, explore various creative attributes, and verify the home page.","Step 1: Navigate to /
 Step 2: Click on div creative
 Step 3: Click on div passionate
 Step 4: Click on div dedicated
@@ -51,52 +83,19 @@ Step 6: Click on div skillDescription
 Step 7: Click on button object
 Step 8: Click on button resume3 -> Navigate to page ''
 Step 9: Take full page screenshot as checkpoint
-",High,NEW
-3,Schedule Call and Fill Contact Form on Portfolio Web,"Navigate to home page, schedule a call, fill out the contact form, and verify return to home page.","Step 1: Navigate to /
+",Medium,NEW
+4,Schedule Call and Send Message to Blog,"Navigate to home, schedule a call, input user details, send a message, and verify the home page after visiting the blog.","Step 1: Navigate to /
 Step 2: Click on button scheduleCall
-Step 3: Click on input name
-Step 4: Press key Tab on input name
-Step 5: Press key Tab on input name
-Step 6: Click on input name
-Step 7: Click on textarea message
-Step 8: Click on input email -> Navigate to page ''
-Step 9: Take full page screenshot as checkpoint
-",Medium,NEW
-12,View Resume and Project Coordination on Portfolio Web,"Navigate to home page, view resume, and verify return to home page after exploring team coordination details.","Step 1: Navigate to /
-Step 2: Click on button resume -> Navigate to page 'resume#resume'
-Step 3: Click on item coordinateWithTeams
-Step 4: Click on item coordinateWithTeams
-Step 5: Click on div dateTimePartTime
-Step 6: Click on div dateTimePartTime -> Navigate to page ''
-Step 7: Take full page screenshot as checkpoint
-",Medium,NEW
-11,Navigate Blog and Academic Journey on Portfolio Web,"Navigate to home page, explore blog and academic journey, and verify return to home page.","Step 1: Navigate to /
-Step 2: Click on button navigation (about)
-Step 3: Click on button navigation (blog3) -> Navigate to page 'blog#blog'
-Step 4: Click on button resume
-Step 5: Click on header academicJourney -> Navigate to page 'blog post#blog/*'
-Step 6: Click on image academicJourney -> Navigate to page ''
-Step 7: Take full page screenshot as checkpoint
-",Medium,NEW
-6,Send Message and Access Blog from Portfolio Web,"Schedule a call, fill out the contact form, send the message, access blog posts, toggle modes, and return to home page.","Step 1: Navigate to /
-Step 2: Click on button scheduleCall
-Step 3: Click on input name
-Step 4: Press key Tab on input name
-Step 5: Press key Tab on input name
-Step 6: Click on textarea message
+Step 3: Click on input name2
+Step 4: Press key Tab on input name2
+Step 5: Press key Tab on input name2
+Step 6: Click on textarea message2
 Step 7: Click on button sendMessage
-Step 8: Click on button sendMessage
-Step 9: Access blog posts and toggle between light and dark modes
-	- Step 1: Click on header academicJourney2 -> Navigate to page 'blog post#blog/*'
-	- Step 2: Click on button blog -> Navigate to page 'blog#blog'
-	- Step 3: Click on header blogTitle -> Navigate to page 'blog post#blog/*'
-	- Step 4: Click on button resume -> Navigate to page 'resume#resume'
-	- Step 5: Click on button switchToLightMode
-	- Step 6: Click on button switchToDarkMode
-Step 10: Click on div userDescription -> Navigate to page ''
-Step 11: Take full page screenshot as checkpoint
+Step 8: Click on button sendMessage -> Navigate to page 'blog#blog'
+Step 9: Click on header blogTitle -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
 ",Low,NEW
-5,View Skills and Contact Information on Portfolio Web,"Navigate to home page, view skills descriptions and contact form, then verify return to home page.","Step 1: Navigate to /
+9,Check Skills and Contact Information,"Navigate to home, explore skill descriptions and contact form, then verify the home page.","Step 1: Navigate to /
 Step 2: Click on header pageTitle
 Step 3: Click on div skillDescription
 Step 4: Click on div skillDescription
@@ -108,49 +107,33 @@ Step 9: Click on div contactForm
 Step 10: Click on button viewPdf -> Navigate to page ''
 Step 11: Take full page screenshot as checkpoint
 ",Low,NEW
-10,Schedule Call and Access LinkedIn on Portfolio Web,"Navigate to home page, schedule a call, access LinkedIn, and verify return to home page.","Step 1: Navigate to /
-Step 2: Click on image blockchainPlatform
-Step 3: Click on button scheduleCall2
-Step 4: Click on button close
-Step 5: Click on button linkedIn2 -> Navigate to page ''
-Step 6: Take full page screenshot as checkpoint
+10,Explore About Section and Academic Journey,"Navigate to home, explore the about section, access blog posts, and verify the home page.","Step 1: Navigate to /
+Step 2: Click on button about
+Step 3: Click on button blog2 -> Navigate to page 'blog#blog'
+Step 4: Click on button resume
+Step 5: Click on header academicContent (academicJourney) -> Navigate to page 'blog post#blog/*'
+Step 6: Click on image academicJourney -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
 ",Low,NEW
-1,Send Message and Toggle Blog Modes on Portfolio Web,"Schedule a call, fill out the contact form, send the message, toggle blog modes, and return to home page.","Step 1: Navigate to /
-Step 2: Click on div scheduleCall
-Step 3: Click on button scheduleCall
-Step 4: Click on input name
-Step 5: Enter input value in input name
-Step 6: Press key Tab on input name
-Step 7: Press key Tab on input name
-Step 8: Enter input value in input email
-Step 9: Click on textarea message
-Step 10: Enter input value in textarea message
-Step 11: Click on div sendMessage
-Step 12: Click on button sendMessage
-Step 13: Click on button blog
-Step 14: Access blog posts and toggle between light and dark modes
+5,Schedule Call and Send Message with Blog Access,"Navigate to home, schedule a call, input user details, send a message, access the blog, and verify the home page.","Step 1: Navigate to /
+Step 2: Click on button scheduleCall2
+Step 3: Click on input name
+Step 4: Press key Tab on input name
+Step 5: Press key Tab on input name
+Step 6: Click on textarea message
+Step 7: Click on button sendMessage2
+Step 8: Click on button sendMessage2
+Step 9: Access blog posts and switch between light and dark modes.
 	- Step 1: Click on header academicJourney2 -> Navigate to page 'blog post#blog/*'
 	- Step 2: Click on button blog -> Navigate to page 'blog#blog'
-	- Step 3: Click on header blogTitle -> Navigate to page 'blog post#blog/*'
+	- Step 3: Click on header blogTitle2 -> Navigate to page 'blog post#blog/*'
 	- Step 4: Click on button resume -> Navigate to page 'resume#resume'
 	- Step 5: Click on button switchToLightMode
 	- Step 6: Click on button switchToDarkMode
-Step 15: Click on div sloWey -> Navigate to page ''
-Step 16: Take full page screenshot as checkpoint
-",Trivial,NEW
-9,Navigate Resume and Contact Form on Portfolio Web,"Navigate to home page, explore resume and contact form, and verify return to home page.","Step 1: Navigate to /
-Step 2: Click on button navigation (work)
-Step 3: Click on button navigation (about)
-Step 4: Click on button navigation (blog3)
-Step 5: Click on button resume -> Navigate to page 'blog#blog'
-Step 6: Click on button resume -> Navigate to page 'resume#resume'
-Step 7: Click on button contactResume (contact2)
-Step 8: Click on div contactForm2
-Step 9: Click on div stickyHeader
-Step 10: Click on button contactResume (resume) -> Navigate to page ''
+Step 10: Click on div userDescription -> Navigate to page ''
 Step 11: Take full page screenshot as checkpoint
 ",Trivial,NEW
-13,View Comprehensive Resume and Profile on Portfolio Web,"Navigate to home page, explore resume and profile details, and verify return to home page.","Step 1: Navigate to /
+12,Check Resume and Profile Details,"Navigate to home, check resume and profile summaries, and verify the home page.","Step 1: Navigate to /
 Step 2: Click on button resume -> Navigate to page 'resume#resume'
 Step 3: Click on div profileSummary
 Step 4: Click on div skillsOverview
@@ -163,8 +146,8 @@ Step 10: Click on button home -> Navigate to page '/'
 Step 11: Click on div skilledInTech
 Step 12: Click on button resume -> Navigate to page 'resume#resume'
 Step 13: Click on div productSupportEngineer
-Step 14: Click on item coordinateWithTeams
-Step 15: Click on item coordinateWithTeams
+Step 14: Click on item teamCoordination (coordinateWithTeams)
+Step 15: Click on item teamCoordination (coordinateWithTeams)
 Step 16: Click on button linkedIn
 Step 17: Click on div backendEngineerFocus
 Step 18: Click on span letter (letterO)
@@ -174,4 +157,35 @@ Step 21: Click on span letterA
 Step 22: Click on div backendEngineerFocus
 Step 23: Click on button viewPdf2 -> Navigate to page ''
 Step 24: Take full page screenshot as checkpoint
+",Trivial,NEW
+13,Contact Form Submission with Resume Details,"Navigate to home, access the resume and contact form, then verify the home page.","Step 1: Navigate to /
+Step 2: Click on header homeTitle
+Step 3: Click on button resume -> Navigate to page 'resume#resume'
+Step 4: Click on button contact (contact2)
+Step 5: Click on input resumeName
+Step 6: Click on input resumeEmail -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",Trivial,NEW
+14,Schedule Call and Send Message with Blog Access,"Navigate to home, schedule a call, input user details, send a message, and verify the home page.","Step 1: Navigate to /
+Step 2: Click on div scheduleCall
+Step 3: Click on button scheduleCall2
+Step 4: Click on input name
+Step 5: Enter input value in input name
+Step 6: Press key Tab on input name
+Step 7: Press key Tab on input name
+Step 8: Enter input value in input email
+Step 9: Click on textarea message
+Step 10: Enter input value in textarea message
+Step 11: Click on div sendMessage
+Step 12: Click on button sendMessage2
+Step 13: Click on button blog
+Step 14: Access blog posts and switch between light and dark modes.
+	- Step 1: Click on header academicJourney2 -> Navigate to page 'blog post#blog/*'
+	- Step 2: Click on button blog -> Navigate to page 'blog#blog'
+	- Step 3: Click on header blogTitle2 -> Navigate to page 'blog post#blog/*'
+	- Step 4: Click on button resume -> Navigate to page 'resume#resume'
+	- Step 5: Click on button switchToLightMode
+	- Step 6: Click on button switchToDarkMode
+Step 15: Click on div sloWey -> Navigate to page ''
+Step 16: Take full page screenshot as checkpoint
 ",Trivial,NEW
